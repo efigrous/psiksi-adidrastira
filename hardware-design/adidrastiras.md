@@ -24,4 +24,4 @@ To σχέδιο του συστήματος ψύξης του πυρηνικού
 
 Το βίντεο της υλοποίησης της εφαρμογή. Πατήστε στην εικόνα
  
-[![](http://img.youtube.com/vi/N7nc3WyzJ0s/0.jpg)](http://www.youtube.com/watch?v=N7nc3WyzJ0s "Εκτόξευση πυραύλου ")
+[![](http://img.youtube.com/vi/F9OXuaUIbto/0.jpg)](http://www.youtube.com/watch?v=F9OXuaUIbto "Σύστημα ψύξης πυρηνικού αντιδραστήρα")
