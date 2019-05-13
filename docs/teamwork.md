@@ -7,4 +7,5 @@
 [![](http://img.youtube.com/vi/51hU4ctajF0/0.jpg)](http://www.youtube.com/watch?v=51hU4ctajF0 "Σύστημα ψύξης πυρηνικού αντιδραστήρα")
 
 Οι μαθητές περιγράφουν τα στάδια σύμφωνα με τα οποία δούλεψαν για την κατασκευή του συστήματος ψύξης του πυρηνικού αντιδραστήρα
+
 [![](http://img.youtube.com/vi/ll8mbezZOoM/0.jpg)](http://www.youtube.com/watch?v=ll8mbezZOoM "Τα στάδια κατασκευής του συστήματος ψύξης πυρηνικού αντιδραστήρα")
